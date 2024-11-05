@@ -1,0 +1,1 @@
+I just dabble in Python here and there! It’s nothing too intense—mostly, I code just to handle little things I need or because it’s fun to play around with ideas. I’m not deep into the hardcore stuff; it’s more like, ‘Oh, I wonder if I can make this happen,’ and then I dive in and see what I can build. Keeps things interesting without being too serious!
